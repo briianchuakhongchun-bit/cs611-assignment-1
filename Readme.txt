@@ -1,1 +1,1 @@
-https://github.com/briianchuakhongchun-bit/Lab.git
+https://github.com/briianchuakhongchun-bit/cs611-assignment-1
