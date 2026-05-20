@@ -1,5 +1,3 @@
-# CS611 Assignment 1 - data pipeline runtime
-# Mirrors the Lab 2 image: Python 3.12 + Java 17 (for PySpark) + JupyterLab.
 FROM python:3.12-slim
 
 ENV DEBIAN_FRONTEND=noninteractive
